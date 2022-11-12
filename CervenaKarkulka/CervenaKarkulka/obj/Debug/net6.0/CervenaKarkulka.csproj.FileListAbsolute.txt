@@ -1,0 +1,30 @@
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.exe
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.deps.json
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.runtimeconfig.json
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.dll
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.pdb
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.csproj.AssemblyReference.cache
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.AssemblyInfoInputs.cache
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.AssemblyInfo.cs
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.csproj.CoreCompileInputs.cache
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.dll
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\refint\CervenaKarkulka.dll
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.pdb
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.genruntimeconfig.cache
+M:\C# C3b\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\ref\CervenaKarkulka.dll
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.exe
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.deps.json
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.runtimeconfig.json
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.dll
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\bin\Debug\net6.0\CervenaKarkulka.pdb
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.csproj.AssemblyReference.cache
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.GeneratedMSBuildEditorConfig.editorconfig
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.AssemblyInfoInputs.cache
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.AssemblyInfo.cs
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.csproj.CoreCompileInputs.cache
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.dll
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\refint\CervenaKarkulka.dll
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.pdb
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\CervenaKarkulka.genruntimeconfig.cache
+C:\PERSONAL AND SCHOOL\SCHOOL\Programming\C# - tretak\CervenaKarkulka\CervenaKarkulka\obj\Debug\net6.0\ref\CervenaKarkulka.dll
